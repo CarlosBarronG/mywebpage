@@ -16,7 +16,7 @@ navbar:
       href: https://www.facebook.com/carlosalfredobarron?ref=bookmarks
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/carlos-alfredo-barr%C3%B3n-gallardo-39bb83166/
-    - icon: fa-researchgate fa-lg
+    - icon: fa-plus-square fa-lg
       href: https://www.researchgate.net/profile/Carlos_Barron3
 output:
   html_document:
