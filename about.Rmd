@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+"My publications"
+
+[Molecular basis of exercise](http://www.revistadeendocrinologia.com/abstract.php?id=66)
+
+[Expression of NK Cell Surface Receptors in Breast Cancer Tissue as Predictors of Resistance to Antineoplastic Treatment.](https://www.ncbi.nlm.nih.gov/pubmed/?term=Expression+of+NK+Cell+Surface+Receptors+in+Breast+Cancer+Tissue+as+Predictors+of+Resistance+to+Antineoplastic+Treatment.)
+
+[High Dietary ω-6:ω-3 PUFA Ratio Is Positively Associated with Excessive Adiposity and Waist Circumference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6189529/)
+
+[17β‑estradiol‑induced mitochondrial dysfunction and Warburg effect in cervical cancer cells allow cell survival under metabolic stress](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910176/)

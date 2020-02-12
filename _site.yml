@@ -1,0 +1,22 @@
+name: "Carlos Barrón Gallardo"
+output_dir: "."
+navbar:
+  title: "Carlos Barrón Gallardo"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/CarlosBarronG
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/carlosalfredobarron?ref=bookmarks
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/carlos-alfredo-barr%C3%B3n-gallardo-39bb83166/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

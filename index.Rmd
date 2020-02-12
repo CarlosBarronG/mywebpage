@@ -1,0 +1,11 @@
+---
+title: "CarlosBarronG"
+---
+<img src="IMG_20190808_163721.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+
+I studied nutrition in [Universidad de Guadalajara](http://pregrado.udg.mx/Centros/Tem%C3%A1ticos/CUCS/nutricion). During the last year of my carrer I was involved in research area related to epigenetic and nutrigenomic.
+Actually I study the [PhD in Biomedical Science](http://www.cucs.udg.mx/biomedicas) by University of Guadalajara. 
+
+
+I work with breast cancer looking for biomarkers of treatment response. This project is carry out in [Western Biomedical Research Center](https://www.cibo.website/) of the Mexican Institute of Social Security. As part of my formation I have to perform bioinformatic analysis, and so that, now I am part of the [Bioinformatic Software Developers Community](https://github.com/ComunidadBioInfo).
